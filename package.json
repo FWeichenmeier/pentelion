@@ -1,0 +1,19 @@
+{
+  "name": "pentelion-fight",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "pentelion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fweichenmeier/pentelion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.1.0",
+    "logfmt": "^1.1.2"
+  }
+}
